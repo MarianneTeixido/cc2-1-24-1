@@ -36,7 +36,6 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain/playlists)
 - [Collage + code de Ana Carreras](https://www.annacarreras.com/collage-generatiu/)
 - [Daily art de Saskia Freeke](https://sasj.nl/portfolio/)
-  
 - [Descargar imágenes en PNG](https://www.pngwing.com/es)
 - [Pexels](https://www.pexels.com/es-es/)
 - [Crear paletas de color](https://color.adobe.com/es/create/color-wheel)
