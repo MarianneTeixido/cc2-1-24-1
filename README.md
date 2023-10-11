@@ -7,15 +7,17 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 
 ## Sesiones
 
-- [x] 09.08.23 - [Sesión 01 - Introducción a Processing]() 
-- [x] 16.08.23 - [Sesión 02 - Fundamentos. Primitivos 2D y color](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) 
-- [x] 23.08.23 - [Sesion 03 - Modo dinámico]()
+- [x] 09.08.23 - [Sesión 01 - Introducción a Processing](docs/s01.md) 
+- [x] 16.08.23 - [Sesión 02 - Fundamentos. Primitivos 2D y color](docs/s02.md) 
+- [x] 23.08.23 - [Sesion 03 - Modo dinámico](docs/s03.md)
 - [x] 30.08.23 - [Sesión 04 - Random y Variables](https://gist.github.com/MarianneTeixido/e210154480b70a71d88996dcb8501b16)
 - [x] 06.09.23 - [Sesión 05 - Condicionales. If()](https://gist.github.com/MarianneTeixido/18ab0cf2435314335a7f6fd59a21293b) 
-- [x] 13.09.23 - [Sesión 06 - Repaso Condicionales e introducción a PImage](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s05.md) 
-- [x] 20.09.23 - [Sesión 07 - CodeCollage. PImage y condicionales](https://gist.github.com/MarianneTeixido/43830707e609eb25cfccfef4fc883493) 
+- [x] 13.09.23 - [Sesión 06 - Repaso Condicionales e introducción a PImage](https://gist.github.com/MarianneTeixido/50dbb3b76d65ea4586e02ae8935c6b42) 
+- [x] 20.09.23 - [Sesión 07 - Collage. PImage y condicionales](https://gist.github.com/MarianneTeixido/43830707e609eb25cfccfef4fc883493) 
 - [X] 27.09.23 -  [Sesión 08 - Puntillismo. Uso de imágenes con la función get()](https://gist.github.com/MarianneTeixido/342a857399d617b9769c4f0f303168d4)
-- [ ] 11.10.23 - [Sesión 09 - Repaso general]()
+- [ ] 11.10.23 - [Sesión 09 - Repaso general. Variables, condicionales, imágenes](docs/s09.md)
+
+
 ## Recursos 
 
 - [Processing](https://processing.org/)
@@ -27,7 +29,12 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [if](https://processing.org/reference/if.html)
 - [else](https://processing.org/reference/else.html)
 - [PImage](https://processing.org/reference/PImage.html)
-- []
+
+## Recursos adicionales
+
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain/playlists)
+- [Collage + code de Ana Carreras](https://www.annacarreras.com/collage-generatiu/)
+- [Daily art de Saskia Freeke](https://sasj.nl/portfolio/)
 
 ## Criterios de evaluación
 
