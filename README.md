@@ -1,4 +1,4 @@
-![portada](addimage)
+![portada](img/portada.png)
 
 # Código creativo 2. Programación estructurada en el diseño
 
