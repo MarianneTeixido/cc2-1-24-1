@@ -15,7 +15,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 13.09.23 - [Sesión 06 - Repaso Condicionales e introducción a PImage](https://gist.github.com/MarianneTeixido/50dbb3b76d65ea4586e02ae8935c6b42) 
 - [x] 20.09.23 - [Sesión 07 - Collage. PImage y condicionales](https://gist.github.com/MarianneTeixido/43830707e609eb25cfccfef4fc883493) 
 - [X] 27.09.23 -  [Sesión 08 - Puntillismo. Uso de imágenes con la función get()](https://gist.github.com/MarianneTeixido/342a857399d617b9769c4f0f303168d4)
-- [ ] 11.10.23 - [Sesión 09 - Repaso general. Variables, condicionales, imágenes](docs/s09.md)
+- [ ] 11.10.23 - [Sesión 09 - Repaso condicionales e imágenes. Introducción Arreglos](docs/s09.md)
 
 
 ## Recursos 
