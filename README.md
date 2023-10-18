@@ -57,5 +57,5 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - Choi, T. (2017) [Zero and One](http://avant.org/project/zero-one/)
 - Felguérez, M y Sasson, M. (1983) La Máquina Estética. Universidad Nacional Autónoma de México. 
 - Goldsmith, K. (2011) Uncreative Writing: Managing Language in the Digital Age. Columbia University Press.
-- Reas, C. and Fry, B. (2014) Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press.
+- Reas, C. and Fry, B. (2014) [Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press](https://drive.google.com/file/d/1jFECuOzu8t2vzE9QmStZotYWfDqD9yYk/view?usp=share_link).
 - Stieg, C. (2023) [ChatGPT vs. Me: Can an AI Chatbot Build a Program From Scratch Better Than a Human?](https://www.codecademy.com/resources/blog/chatgpt-vs-human-developer-coding-project/)
