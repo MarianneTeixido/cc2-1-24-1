@@ -16,8 +16,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 20.09.23 - [Sesión 07 - Collage. PImage y condicionales](https://gist.github.com/MarianneTeixido/43830707e609eb25cfccfef4fc883493) 
 - [X] 27.09.23 -  [Sesión 08 - Puntillismo. Uso de imágenes con la función get()](https://gist.github.com/MarianneTeixido/342a857399d617b9769c4f0f303168d4)
 - [X] 11.10.23 - [Sesión 09 - Repaso condicionales e imágenes. Introducción Arreglos](docs/s09.md) - [Código de la clase](https://gist.github.com/MarianneTeixido/9e6c20c8535e8152b770228d08997fcc)
-- [ ] 18.10.23 - [Sesión 10 - Introducción a bucle for](docs/s10.md)
-
+- [X] 18.10.23 - [Sesión 10 - Introducción a bucle for](docs/s10.md) 
+- [ ] 25.10.23 - [Sesión 11 - Repaso bucle for](docs/s11.md)
 
 ## Recursos 
 
