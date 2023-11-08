@@ -19,7 +19,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [X] 18.10.23 - [Sesión 10 - Introducción a bucle for](docs/s10.md) 
 - [X] 25.10.23 - [Sesión 11 - Repaso bucle for y for's anidados](docs/s11.md)
 - [X] 01.11.23 - [Sesión 12 - Iteraciones, condicionesles y arreglos](docs/s12.md) - [Código de la clase](https://gist.github.com/MarianneTeixido/d93560e5fa2005f7c0a11cecb0cea409)
-- [ ] 08.11.23 - Sesión 13 - Planeación trabajo final.
+- [ ] 08.11.23 - [Sesión 13 - Planeación trabajo final.](docs/s13.md)
 
 ## Recursos 
 
