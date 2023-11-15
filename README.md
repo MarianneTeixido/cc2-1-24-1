@@ -20,7 +20,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [X] 25.10.23 - [Sesión 11 - Repaso bucle for y for's anidados](docs/s11.md)
 - [X] 01.11.23 - [Sesión 12 - Iteraciones, condicionesles y arreglos](docs/s12.md) - [Código de la clase](https://gist.github.com/MarianneTeixido/d93560e5fa2005f7c0a11cecb0cea409)
 - [X] 08.11.23 - [Sesión 13 - Planeación trabajo final.](docs/s13.md)
-- [ ] 15.11.23 - [Sesión 14 - Strings](docs/s14.md)
+- [ ] 15.11.23 - [Sesión 14 - Strings](docs/s14.md) - [Código 1](https://gist.github.com/MarianneTeixido/7d922616687c1fdcb00179a839d8b509)
 ## Recursos 
 
 - [Processing](https://processing.org/)
