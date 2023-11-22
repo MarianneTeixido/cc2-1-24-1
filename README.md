@@ -20,7 +20,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [X] 25.10.23 - [Sesión 11 - Repaso bucle for y for's anidados](docs/s11.md)
 - [X] 01.11.23 - [Sesión 12 - Iteraciones, condicionesles y arreglos](docs/s12.md) - [Código de la clase](https://gist.github.com/MarianneTeixido/d93560e5fa2005f7c0a11cecb0cea409)
 - [X] 08.11.23 - [Sesión 13 - Planeación trabajo final.](docs/s13.md)
-- [ ] 15.11.23 - [Sesión 14 - Strings](docs/s14.md) - [Código 1](https://gist.github.com/MarianneTeixido/7d922616687c1fdcb00179a839d8b509) - [Código 2](https://gist.github.com/MarianneTeixido/fae914258723ab489adff0ca8bcb9321)
+- [X] 15.11.23 - [Sesión 14 - Strings](docs/s14.md) - [Código 1](https://gist.github.com/MarianneTeixido/7d922616687c1fdcb00179a839d8b509) - [Código 2](https://gist.github.com/MarianneTeixido/fae914258723ab489adff0ca8bcb9321)
+- [ ] 22.11.23 - [Sesión 15 - Repaso strings y otras herramientas creativas| Presentación avances entrega final](dosc/s15.md)
 ## Recursos 
 
 - [Processing](https://processing.org/)
@@ -37,6 +38,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - 
 ## Recursos adicionales
 
+- [P5JS](https://p5js.org/es/)
+- [P5.brush](https://p5-brush.cargo.site/)
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain/playlists)
 - [Collage + code de Ana Carreras](https://www.annacarreras.com/collage-generatiu/)
 - [Daily art de Saskia Freeke](https://sasj.nl/portfolio/)
