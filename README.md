@@ -35,7 +35,9 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [PImage](https://processing.org/reference/PImage.html)
 - [Arreglos](https://processing.org/reference/Array.html)
 - [For](https://processing.org/reference/for.html)
-- 
+- [String](https://processing.org/reference/String.html)
+- [Custom Functions](https://processing.org/examples/functions.html)
+
 ## Recursos adicionales
 
 - [P5JS](https://p5js.org/es/)
@@ -43,6 +45,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain/playlists)
 - [Collage + code de Ana Carreras](https://www.annacarreras.com/collage-generatiu/)
 - [Daily art de Saskia Freeke](https://sasj.nl/portfolio/)
+- [Cosmic Poems de Mark Webster](https://mwebster.online/dev/work)
 - [Descargar imágenes en PNG](https://www.pngwing.com/es)
 - [Pexels](https://www.pexels.com/es-es/)
 - [Crear paletas de color](https://color.adobe.com/es/create/color-wheel)
